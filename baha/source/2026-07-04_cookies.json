@@ -1,0 +1,62 @@
+[
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1783109494,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "4f8GT7_S1FaYyWyxf2V4Vzjym_D1hWkjTjB8sO6Mz4A-1783107693.4685435-1.0.1.1-gapVfI037mYD20il6Aajk_ujRBmGmIMbjs_jo5d2XC63wszC2sWvipL0SNbzRVTjevcOXaWrZoYebTc3KrXLOlS0yDusC.VT.f.V5s8RNPxgRYgWWdXypXCw7dTqeHaY"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1814643694,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "t68RMG3VjQEYgMzUUkWN8j3OriIKKBZauqQneU6.7tg-1783107694-1.2.1.1-E5PyKTPdwWw_fbi0GAMTTP9hGKD_cAynvhec.DImpdwRnkDikzAM7_5C2QcdX1N327QUAcsFgTxf_yMzjChWMmzmMVE27VAn2ggMRkkhd2cTMUN0Sg0C5e7xo1jCRX9yNGyG1n21eS4Ujq9gw4AKOCsRykmVZkxv2Bx_4e4Ob6eGalLsEpvkdnNCeR7bLHrZPDoWELMSTkjdhZBMF6QwbO.6sMkLXpQu5Gqftws9W1ybnFiAP4R3CCnEbf80lAsvKCwIOFdBScXctumz0riZlYtFxBrmlfmdfbm_yrVzGmAjrTWM9lwEgsET2IQYsYz7IiuM0ZccdMiFiJdsFg.A4.r4gKCubvKFPvybGQZ1Ja5BoHelgxb_v0ZkytEzpuc78UzicrEWY2j7yYiKvXhT4ifu3vDSdEqdIhQW4dmSvwoGI7dDRg4vzmdnDYR4itwFjgNhm4ZVQKKDF7_w6yVo1TN3tEx0fHT2LuyO.CZOlSqXLyjo52cnmBFSwSRkOeqK"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1783123199,
+    "httpOnly": false,
+    "name": "ckBahaAd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "-------0-----------------"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1817667695,
+    "httpOnly": false,
+    "name": "_ga_MT7EZECMKQ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1783107695$o1$g0$t1783107695$j60$l0$h0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1817667695,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.754980750.1783107695"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1814211695,
+    "httpOnly": false,
+    "name": "ANIME_dark_theme",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  }
+]
