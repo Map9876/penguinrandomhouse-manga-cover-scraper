@@ -1,0 +1,62 @@
+[
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1814384230,
+    "httpOnly": false,
+    "name": "ANIME_dark_theme",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1783282028,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "3d7YHDQTOb4GxNXsc4Iq6cNbRL8koXI4FbQRTpCvWKM-1783280228.7355154-1.0.1.1-heGM9qyKlBBMfZ9lBs8d.9M.ZolN2jadprdJBAVUu4xTICJnIxBZH7BbDxsg4bDrbhBF9wVG057bNrJjR_7ZY_KLlG5PqPxSNE9r3u2xVJksX7uNfk5pj.T_T5jTgTOO"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1814816228,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "sXmCL74P0am87qlgZg0w0cRZOj9Cax3tjZrVoeB1BSY-1783280228-1.2.1.1-nTIvIXx7nFByTmpa6Z5tKA3M26DSKgsdcqa1wLF2SrEqhAgoyN5B7Z.m0um..ht6e_NTNQTF9kGB37mXwUkDKWVYiWefeo1oII2GqEGa6Q1TiEYxAAMHveRlxMVF7omOe3B_d7lBywwvDEXJbxAjQ0i.ci49Ctixd.cCzZrMlPIQJ2_zkPtNKP3DcZfFWveaAgN_OCi2X3AVdSQj23kJwl84FHx97dt2ofa8UwodC1NPHpYdZNMuUJCGsdJvhuycCcIV390u3bG0ntxlWPG7NrlOPgf4dgS3CfNOLaea7JW7z2G0aetNWWxZJIUOce9Lbbz_0hmIsmkvd4Cm0t2NvqkU7_9iihvg_tfmm2BvoZ7KxxXZYJQjjne5N8I6AGqxk7TVj4sOy7KppTcPWYY9BiwK59dzHPrLzpdhKDKQDEOKijSiHmI.Co08XbO3VKAPNFkZthjBRt_lIG4Di8HCrUrZ3u.vWVZjih9i9h65.S5Gf0TW708k4y38C2DTrMcX"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1783295999,
+    "httpOnly": false,
+    "name": "ckBahaAd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "-------0-----------------"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1817840230,
+    "httpOnly": false,
+    "name": "_ga_MT7EZECMKQ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1783280230$o1$g0$t1783280230$j60$l0$h0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1817840230,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1834761233.1783280231"
+  }
+]
