@@ -1,0 +1,62 @@
+[
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1815853099,
+    "httpOnly": false,
+    "name": "ANIME_dark_theme",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1784750897,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "S33mWnjQrQwvzGOhzy2XQyIh.VH0zz_3_MNKa5dx3KM-1784749097.7524755-1.0.1.1-4rws4dIXm0aGfxVdNII3RycWfweu2ENnDQrpzFaaoDkO0Z8m4ZzdBmBRcAxQ6LgPuLSYU0MlMbrDQUcbZW37_JSFODUb8xZwH65vIOUXzfM00Zk6Pdqzlf7WmCUrPPha"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1816285097,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "kD8T8QmHc1Imzy_jX5VYhF2rzQFLQ.TG69wjpN7qCqY-1784749097-1.2.1.1-QBw_3F60qdRthWXyV75caWUtvFZXSPmtDgUqTcEffal.l.4LgveKDElqKpuz68HWQziTboOkU3lzBFBp76BDXiiywuB6ADxmGyhWyWmI7p4LEu9LRTJWxBcG7Kj5DJHNfXNt4L6wCi1hIG0GOvUQsGzb._xUd3hqDbr_BnJRjjQwVXzJ7RC5H6jAcXclClTsL0VHiY_3lfr8_B5gFNTqb3qa9mgXm6sf.C9jWpJ8GyGavgturFo.3LO.vGRssGj3jDDf5_bDbl2IbU7g.jfkTuFzdDctHAIjgd3Y1r_hqpdPLb.yZ7BNIM.X5wIBmWaovL_vNJVGUVAQuYBlAKQnj1bKw06RjQs07YoIY6H81XUNx5OPx62_VVJ7UQMNrGvQQete489MylnENDpA7KusMZg_oAY4fzTx11nKdIpVya9.X1qDQQGHJHauVUGKJa2itYY_pZ0dDMnEEYv7C6WzE.cRVcadn.yk0Gre5zuIvfn58q_n4Lz17u9Ssn7hJ8P7ShVV.dq31w.4ycK2iE7pUy7ayGU4v6CMQbRlLyZ0ANkQTnuRNbQnxPXKeWmhawAMVb9Ijd9KbNgKLZRmyXgi0w"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1784764799,
+    "httpOnly": false,
+    "name": "ckBahaAd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "-------3-----------------"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1819309099,
+    "httpOnly": false,
+    "name": "_ga_MT7EZECMKQ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1784749099$o1$g0$t1784749099$j60$l0$h0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1819309099,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1617913466.1784749100"
+  }
+]
