@@ -1,0 +1,62 @@
+[
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1816371861,
+    "httpOnly": false,
+    "name": "ANIME_dark_theme",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1785269660,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "Y_oJCUihEOgSdFgCrjjN9AtYxQ.nQWqnnJ5XTfaqnIA-1785267860.320528-1.0.1.1-8C2JXb5Frww0vSrUOXB.dTGvSujop2RSdqjCAeclXJJxtOmMz8U800JaVng_w_Rzq0XQ.P.NMXmAzNZvORScReMKXzkT7SnAmnMx7_1OiCiia2_0OlHLu_22wRZ3zXqL"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1816803860,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "JOavVp35RiFIIK2ZWFnjZsEHHcF72SjG_jooNvH2izg-1785267860-1.2.1.1-I1mrgOuWNLH1KuSWJG3kShsT3lXMC3u4ikj8fJNfKxMxUXk4I70Iqyg4TiCx3tN3Tpk8Fnlp_4Y3PdEd0hCkMCaSl9qUWEMU7_rT2g1TT9pYAAU65ADTA7bw_o0mOjwhTrxAe6NZ6NcTE2kQ2Au5wr5O3AxE1gzpbO0FltZwVR_TQjvwykTqj5W0Hh6TI2wksrmboM3S4ExCsPDaEdzYvndHOyt25b0ZbwWFK5X9l7KMfotOjHZbP1IPROTTUepBdIHE7NQbpeslOxbzifXDKRHhCSSc4NYkeQkWdhayhOlqtRFFTf3S4tz.GhA_laqa6BSEDHXr029T.lO8WEaRYF9uH69q.x9UtodfCvyWKDOnYAaRUXmbDwnP0bPafEUc1pH7IjaFvhQnN7uhxNUG1NsxhCeWPmjA0gXqfXzXxiZvTCgozFtuYuJH3YdHLuvo_T2nEX6_bGwhA4uOM6Q1c.nhX5QF.Tm6xs2FUWnCjjJvj4pAN3_bA89OsNDD90igJyjGKbYjlpdqgrq.1sJ0uSUhUE7YVNxZe9Wz4sLnTb1tI1tfQeyvekTMqdkkvVMlw90wPgh7prTCj2fuV209dg"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1785283199,
+    "httpOnly": false,
+    "name": "ckBahaAd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "-------0-----------------"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1819827861,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1434156628.1785267862"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1819827861,
+    "httpOnly": false,
+    "name": "_ga_MT7EZECMKQ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1785267861$o1$g0$t1785267861$j60$l0$h0"
+  }
+]
