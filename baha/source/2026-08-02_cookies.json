@@ -1,0 +1,62 @@
+[
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1820172059,
+    "httpOnly": false,
+    "name": "_ga_MT7EZECMKQ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1785612059$o1$g0$t1785612059$j60$l0$h0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1785613857,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "fJcLpGlHkDWVWmjbTfr0wPC99hI1wVhUIAh97c77uCY-1785612057.805169-1.0.1.1-Ja9.8Ze_s1_fM_wETrEOnXG7Bm_i.xmsltfRUtv0zNom.eu.QTVBWhLuBTWEvFVupV4xwca9ZQmhTuPfMuaJIzxeHeRLxF2ZdeHUF.y2JfcBi5pUQcuxtMWhZMMsV2rN"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1817148057,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "FhzI53Z49s9kTcRGS1OAl4XkEaDsJ0ARJtBv7kX2lIo-1785612057-1.2.1.1-J8MVu_bEPKYEFRrKWvKaID6Yy2na.iw.N_mM9PQbSxoh_KOy.HJHs0LACsh_Rn1dAfwT5xligFw3kaLU7rFVeWyhIVWyFlEjzc5lymmcH2Tet.vIjyPJwnm.aTFhbJORvJKCyRZFdox1SVUjjHfOt076PaBKlLt.oHhROjaapSne0k_BGUJg9cThfl_0ShHTP00AfOLEafA1605sJuQS6sLPu3Cs..sjTuj6a.cj.Hv8ZM7ZtrAXnBVXfPaMk7LzEYc5B3kMH6mTI8G_wQ1NYKiS_G5ntndAD2PqYpb1sycJWfYOEkJcQx85CPQJ3TdCvGpZkdFQY.D2.KFJ.IwgKbhjXso8Ie_lqxA7Ku8pGQt2yuagPSSMK9E9QNz_nW.uqgy5pB_H_M6yKplWkL5KHlkTomIuAU_piVdngzDr.Sh_nttoRH6pVe33WCxAdm1cgW1.bQUoTKzBMHXinqcXAcAgxnFxiOC_5se9nk5oqV756D1Qi9wlXgTBpdyDeQTPaBh9OL7KJbW_6j7c9WmrPy9hbBnH_OvEHSq9vDWofbAQmtnxUB82Tc1g55px5hT5FmNIFbrhoqHE9HFkLJzGbA"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1785628799,
+    "httpOnly": false,
+    "name": "ckBahaAd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "-------5-----------------"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1820172059,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1535641309.1785612059"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1816716059,
+    "httpOnly": false,
+    "name": "ANIME_dark_theme",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  }
+]
