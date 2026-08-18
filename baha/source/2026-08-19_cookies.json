@@ -1,0 +1,62 @@
+[
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1818182969,
+    "httpOnly": false,
+    "name": "ANIME_dark_theme",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1787097599,
+    "httpOnly": false,
+    "name": "ckBahaAd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "-------4-----------------"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1818614964,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "D6tER1m13.HFg172pGNqh1Piw4gH7o_7meiJJlgOcsc-1787078964-1.2.1.1-20v2Aqe3_RjOBUtuf0DO7EC5A_fFd2Mze0HxJgv2_UOfpV7IzOzpZAkRWCKFda6qr3aVZw5pP8NG_TjQh2ueohyKLebt0tNwdD1SCDTj20TWwb1353uhjazD1fXdGVTKsiEdNDNfkGx2pdwB5d5.u0PL4Qwvoy6Q5_H3ywmVvlt28VlBKsLCMZC7y64_f8XQ80l.yNXJlcSTWYjAYxP.qhZD9sFL.wTwvpGRPJxAto5XWMoBL2b7P5x.vK2JbnegmxaEH5vVMwsrsWoOMXMpg5Vl14VyDVLKHsTyVX3SM6AbSndnZ6NFLGAOqTWzGg9xfl79_Bkeoc5NwOP1THTusFZC9O7ttUthiEmhf7KVdJl1E4vhCYgKwv3GSkz1WFt7vCZs4LkrfVS.C8aNuLETuj3gH2ZAxd4Wp24BBAEixwXCWk__Jz.aC695bY2yyIn9tqf2vAJUJNfsqbIby7cBJhwVkgwLdiwR6dFGHOjFS_5KxPdcW.yIcNeadM1MN4AfR3IOQyPdxQ2I6vMSkyM_gw"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1787080764,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "aHjblMyc4FMI1.8yY8MnxuezbCZ6_va3rUcF7ZpjYnw-1787078964.5626826-1.0.1.1-GA6ycRXVrk6OnCqxtsRSuAmnPoR1ddw.Th8lBXsnKGUFBgDmSPVoHPtlC0wlY4A.4_MkB6op_dgV_Y3re.QWhsbW_WxEYnCQthFCychA99atKyiRoNWE59pGEH9V7V0U"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1821638969,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.17692267.1787078969"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1821638969,
+    "httpOnly": false,
+    "name": "_ga_MT7EZECMKQ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1787078969$o1$g0$t1787078969$j60$l0$h0"
+  }
+]
