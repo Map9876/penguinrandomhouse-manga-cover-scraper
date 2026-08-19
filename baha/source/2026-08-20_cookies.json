@@ -1,0 +1,62 @@
+[
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1818269135,
+    "httpOnly": false,
+    "name": "ANIME_dark_theme",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1787183999,
+    "httpOnly": false,
+    "name": "ckBahaAd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "-------5-----------------"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1818701131,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "cVIgxE3E_mbPzGVWNOAWu.rMSYDkyHvwBUG3MxnwREY-1787165131-1.2.1.1-LMpT7nKJgpVWa05BSwG2MW1vP8q.sBWc2LJeWSevVpv7dysIBeLYEJquvShCDEQpGK8QklscDYN5fHxsYIxgevoc2GpU9kaGjZM1_RkyBjUPG91Kxlcsl6oSfeCUFuYTX.OPc8zDCyzYylpOGvGJJUBPORAEVP3_QFsUA5K3353Yc6fAezkjnqGXTIVXHjyy3a0PP6Q4_I8MalzvAnuqVd9ThnhZY3_jQAYLnEQOvYS_9LvujyCB29qJz_p_ng56bVeeZUV.mQIdne1aem2FAQLEiHtPHxe.Wnpky5XexXsct698c3ihcKVgpAjDA2r0EBgcs6XeHRQaqdXPE0ofs_Cf.52OwZhCuaZf46iqLsYvD9v1ZRBxrDRQMgbbeke1HxSzn5kOncpcPS.dvywneqETqHpe2dkIZuY5tEjUSVyReeKAwu9uv5CBK5DC.RXvQujhLCu79yA3A4FLqc45GVPCZiT6uN5.5oO_T0VdPv5GQ1aDkbjlEqp4xWm8eFRReJ.mgjC3js8e6XDIA_0O9A"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1787166931,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "RXlwaaLuY7M7cUzlSOTg.SFCdzj7Er.40bwqJdUD8a0-1787165131.1732721-1.0.1.1-zTNZ_S5oEVzPcxJ78HMLNYJEdFKneZJQGDW0zK5rvJLTP4xw6jRe2wmQeMpb7Ck_KUtCI5dHue7421h.WYOxWhWBm9kbBDCu_rkZOR_DM2wnoUsw6_RRduk0TEYvzQ3Z"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1821725135,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1101319866.1787165135"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1821725135,
+    "httpOnly": false,
+    "name": "_ga_MT7EZECMKQ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1787165135$o1$g0$t1787165135$j60$l0$h0"
+  }
+]
