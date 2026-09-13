@@ -1,0 +1,52 @@
+[
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1823891989,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1406442320.1789331989"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1789343999,
+    "httpOnly": false,
+    "name": "ckBahaAd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "-------2-----------------"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1820867988,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "MbNS3lCECuxjHLa76AoYot9_KpWvlFSXNHVa3dAXJRQ-1789331988-1.2.1.1-br6vB1.JZQyd5UDZr6J6VblymXsv6DO3qlhcJ4bW8uDebNCou19vbLSytQqtuxUhcuBR0yjtvdNac5qOTFA2T9bCKGGcjObcXx_TeeWBbJi.blTBjpenz02HYvEQhwmsZGQjZ8APmRUpoDRRln_WiXXhIl3LpBchth4aeDT77ry8PA_6XbabDwNEhgaOwBTMh3WQYvI0yx22xUsebLGUWeKWJDSCdvBccwZHS3MRRojEFL_oIuOWVGN0c1BTMuSqUooZJShUoaQh.Ud9o4lBSJwj6MEG8pj7Uu7EYAzIIPx4BDd0H.B2Dk4UZC3lBBzYYJl68Uzvu3bu0kvjN5QEPaGWpfqoHXeeJhsz9iWXnoi6fiJvcUGezwMuP.ie4mk47Hlmx6R.HyP6C1U0VkPpHiLjaVv7U9skx1c.IHQQONWzQy5AOGh_3HFpRJ60t5Mny_y0IgUmLx8Sykcety3b6.Xb52VsXY.9lbCp_VEQEm_MbLGBWPvJ4nt4ql8riq_X3di6j8Ze6_aGCepBYNjL.g"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1820435989,
+    "httpOnly": false,
+    "name": "ANIME_dark_theme",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1823891989,
+    "httpOnly": false,
+    "name": "_ga_MT7EZECMKQ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1789331989$o1$g0$t1789331989$j60$l0$h0"
+  }
+]
