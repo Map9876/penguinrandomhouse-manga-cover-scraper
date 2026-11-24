@@ -1,0 +1,52 @@
+[
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1830052549,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1092527353.1795492550"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1795564799,
+    "httpOnly": false,
+    "name": "ckBahaAd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "-------0-----------------"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1827028547,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "CjXJoGl1JIvIl8bQGnYQ6poqCWueq72G6Cq1s-_TypKal2_vGxtastQ5XE0v6d9XJpqvXPjuF7lBER6OVdRj2731aHLbtCedml8SAra_YJgFHsZNj-yfRd8DQyLvjK271iAjL5g2jOsS99j-UmLZ7Qijqxc1n8rjE8Fl1pWdO1RPMp6Ir0U8cQJWLLBgTZokQ4OBRbXOvwudIsbaiLYLs5zGtsg5rZFTPIYFHqNmZG0ANRQIEGnNms8X13dnP7icSnIK5s4DxOZmjI854L3NzGu_tgl1ihWLRs8_bXTMn-wyVoDLxj_6eT2EU2RV8E8QUyvrMjsjKZxqjI6Ny4P9vUGTNcf9o0R1KtoBzWXDNJwdDz8Un4yNvcNGTP9RUVyZ9DYvlYddtDjkpEG_yP97WXpHn1EgdWB3RWXmUVMN8ba11SqX"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1830052549,
+    "httpOnly": false,
+    "name": "_ga_MT7EZECMKQ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1795492549$o1$g0$t1795492549$j60$l0$h0"
+  },
+  {
+    "domain": ".gamer.com.tw",
+    "expiry": 1826596549,
+    "httpOnly": false,
+    "name": "ANIME_dark_theme",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  }
+]
